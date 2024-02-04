@@ -25,8 +25,8 @@ python3 Simulateur-de-Dés.py
 ### Windows Powershell
 ```bash
 pip install pygame
-git clone https://github.com/LucasTylczak/Simulateur-de-Dés.git
-cd .\Simulateur-de-Dés\
+git clone https://github.com/LucasTylczak/Simulateur-de-Des.git
+cd .\Simulateur-de-Des\
 python .\Simulateur-de-Dés.py
 ```
 2. Appuyez sur la barre d'espace pour simuler le lancement du dé.
