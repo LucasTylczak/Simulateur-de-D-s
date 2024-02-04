@@ -32,3 +32,5 @@ python .\Simulateur-de-Dés.py
 2. Appuyez sur la barre d'espace pour simuler le lancement du dé.
 
 ## Exemple
+![Démo GIF](images/demo.gif)
+
