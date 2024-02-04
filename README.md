@@ -17,8 +17,8 @@ Ce script Python utilise la bibliothèque Pygame pour créer un simulateur de d�
 ### Kali Linux
 ```bash
 pip install pygame
-git clone https://github.com/LucasTylczak/Simulateur-de-Dés.git
-cd Simulateur-de-Dés
+git clone https://github.com/LucasTylczak/Simulateur-de-Des.git
+cd Simulateur-de-Des
 python3 Simulateur-de-Dés.py
 ```
 
