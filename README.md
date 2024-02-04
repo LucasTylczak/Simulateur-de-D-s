@@ -16,18 +16,18 @@ Ce script Python utilise la bibliothèque Pygame pour créer un simulateur de d�
 
 ### Kali Linux
 ```bash
-    pip install pygame
-    git clone https://github.com/LucasTylczak/Simulateur-de-Dés.git
-    cd Simulateur-de-Dés
-    python3 Simulateur-de-Dés.py
+pip install pygame
+git clone https://github.com/LucasTylczak/Simulateur-de-Dés.git
+cd Simulateur-de-Dés
+python3 Simulateur-de-Dés.py
 ```
 
 ### Windows Powershell
 ```bash
-    pip install pygame
-    git clone https://github.com/LucasTylczak/Simulateur-de-Dés.git
-    cd .\Simulateur-de-Dés\
-    python .\Simulateur-de-Dés.py
+pip install pygame
+git clone https://github.com/LucasTylczak/Simulateur-de-Dés.git
+cd .\Simulateur-de-Dés\
+python .\Simulateur-de-Dés.py
 ```
 2. Appuyez sur la barre d'espace pour simuler le lancement du dé.
 
